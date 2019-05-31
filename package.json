@@ -1,0 +1,13 @@
+{
+  "name": "cordova-bimore-pagseguro",
+  "version": "1.0.0",
+  "description": "Cordova Pagseguro Plugin",
+  "cordova": {
+    "id": "cordova-bimore-pagseguro",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "Fernando Vargas Filho",
+  "license": "Apache 2.0"
+}
